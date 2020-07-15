@@ -11,7 +11,7 @@ s_t = [x y theta]'
 The input control `u_t` for the robot is
 
 ```
-u_t = [v omega]
+u_t = [v omega]'
 ```
 
 The robot can make an observation `z_t` of a landmark using a LIDAR sensor. The sensor reports the range of the landmark `rho` and the bearing to the landmark `phi`.
