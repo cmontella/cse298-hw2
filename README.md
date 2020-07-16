@@ -97,4 +97,4 @@ Calculate the following:
 
 ## Question 12
 
-Write down the Jacobian matrix H using the answers to question 10
+Write down the Jacobian matrix H using the answers to question 11
